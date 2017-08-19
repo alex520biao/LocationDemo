@@ -1,0 +1,10 @@
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/MBProgressHUD" "${PODS_ROOT}/Headers/Public/ONEFoundation" "${PODS_ROOT}/Headers/Public/ONEUIKit" "${PODS_ROOT}/Headers/Public/OpenUDID" "${PODS_ROOT}/Headers/Public/SDWebImage" "${PODS_ROOT}/Headers/Public/SVProgressHUD" "${PODS_ROOT}/Headers/Public/UICKeyChainStore" "${PODS_ROOT}/Headers/Public/UIView+Positioning" "${PODS_ROOT}/Headers/Public/libwebp"
+LIBRARY_SEARCH_PATHS = $(inherited) "$PODS_CONFIGURATION_BUILD_DIR/MBProgressHUD" "$PODS_CONFIGURATION_BUILD_DIR/ONEFoundation" "$PODS_CONFIGURATION_BUILD_DIR/ONEUIKit" "$PODS_CONFIGURATION_BUILD_DIR/OpenUDID" "$PODS_CONFIGURATION_BUILD_DIR/SDWebImage" "$PODS_CONFIGURATION_BUILD_DIR/SVProgressHUD" "$PODS_CONFIGURATION_BUILD_DIR/UICKeyChainStore" "$PODS_CONFIGURATION_BUILD_DIR/UIView+Positioning" "$PODS_CONFIGURATION_BUILD_DIR/libwebp"
+OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/MBProgressHUD" -isystem "${PODS_ROOT}/Headers/Public/ONEFoundation" -isystem "${PODS_ROOT}/Headers/Public/ONEUIKit" -isystem "${PODS_ROOT}/Headers/Public/OpenUDID" -isystem "${PODS_ROOT}/Headers/Public/SDWebImage" -isystem "${PODS_ROOT}/Headers/Public/SVProgressHUD" -isystem "${PODS_ROOT}/Headers/Public/UICKeyChainStore" -isystem "${PODS_ROOT}/Headers/Public/UIView+Positioning" -isystem "${PODS_ROOT}/Headers/Public/libwebp"
+OTHER_LDFLAGS = $(inherited) -ObjC -l"MBProgressHUD" -l"ONEFoundation" -l"ONEUIKit" -l"OpenUDID" -l"SDWebImage" -l"SVProgressHUD" -l"UICKeyChainStore" -l"UIView+Positioning" -l"libwebp" -framework "CoreGraphics" -framework "ImageIO" -framework "QuartzCore" -framework "Security" -framework "UIKit"
+PODS_BUILD_DIR = $BUILD_DIR
+PODS_CONFIGURATION_BUILD_DIR = $PODS_BUILD_DIR/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_PODFILE_DIR_PATH = ${SRCROOT}/.
+PODS_ROOT = ${SRCROOT}/Pods
+USER_HEADER_SEARCH_PATHS = $(inherited) $(SRCROOT)/libwebp/src

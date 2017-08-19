@@ -1,0 +1,105 @@
+PODS:
+  - libwebp (0.5.1):
+    - libwebp/core (= 0.5.1)
+    - libwebp/dec (= 0.5.1)
+    - libwebp/demux (= 0.5.1)
+    - libwebp/dsp (= 0.5.1)
+    - libwebp/enc (= 0.5.1)
+    - libwebp/mux (= 0.5.1)
+    - libwebp/utils (= 0.5.1)
+    - libwebp/webp (= 0.5.1)
+  - libwebp/core (0.5.1):
+    - libwebp/webp
+  - libwebp/dec (0.5.1):
+    - libwebp/core
+  - libwebp/demux (0.5.1):
+    - libwebp/core
+  - libwebp/dsp (0.5.1):
+    - libwebp/core
+  - libwebp/enc (0.5.1):
+    - libwebp/core
+  - libwebp/mux (0.5.1):
+    - libwebp/core
+  - libwebp/utils (0.5.1):
+    - libwebp/core
+  - libwebp/webp (0.5.1)
+  - MBProgressHUD (1.0.0)
+  - ONEFoundation (1.0.10):
+    - ONEFoundation/Utils (= 1.0.10)
+  - ONEFoundation/Utils (1.0.10)
+  - ONEUIKit (1.0.24):
+    - ONEUIKit/Alert (= 1.0.24)
+    - ONEUIKit/Bubble (= 1.0.24)
+    - ONEUIKit/Component (= 1.0.24)
+    - ONEUIKit/Helper (= 1.0.24)
+    - ONEUIKit/HUD (= 1.0.24)
+    - ONEUIKit/ImagePicker (= 1.0.24)
+    - ONEUIKit/Popup (= 1.0.24)
+    - ONEUIKit/Scanner (= 1.0.24)
+    - ONEUIKit/StatusBar (= 1.0.24)
+    - ONEUIKit/Theme (= 1.0.24)
+    - ONEUIKit/UIKitUtils (= 1.0.24)
+    - ONEUIKit/WebP (= 1.0.24)
+  - ONEUIKit/Alert (1.0.24):
+    - ONEUIKit/Helper
+    - ONEUIKit/Theme
+    - SDWebImage (~> 3.7.6)
+  - ONEUIKit/Bubble (1.0.24):
+    - ONEUIKit/Helper
+    - ONEUIKit/Theme
+  - ONEUIKit/Component (1.0.24)
+  - ONEUIKit/Helper (1.0.24)
+  - ONEUIKit/HUD (1.0.24):
+    - ONEFoundation (~> 1.0.0)
+    - ONEUIKit/Helper
+    - ONEUIKit/Theme
+  - ONEUIKit/ImagePicker (1.0.24):
+    - ONEFoundation (~> 1.0.0)
+  - ONEUIKit/Popup (1.0.24):
+    - ONEFoundation (~> 1.0.0)
+    - ONEUIKit/Helper
+    - ONEUIKit/Theme
+    - UIView+Positioning (= 1.1)
+  - ONEUIKit/Scanner (1.0.24):
+    - ONEFoundation (~> 1.0.0)
+    - ONEUIKit/Alert
+    - ONEUIKit/HUD
+    - ONEUIKit/Theme
+  - ONEUIKit/StatusBar (1.0.24):
+    - ONEFoundation (~> 1.0.0)
+    - ONEUIKit/Helper
+    - ONEUIKit/Theme
+  - ONEUIKit/Theme (1.0.24)
+  - ONEUIKit/UIKitUtils (1.0.24):
+    - OpenUDID
+    - UICKeyChainStore
+    - UIView+Positioning (= 1.1)
+  - ONEUIKit/WebP (1.0.24):
+    - libwebp (= 0.5.1)
+  - OpenUDID (1.0.0)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - SVProgressHUD (2.1.2)
+  - UICKeyChainStore (2.1.1)
+  - UIView+Positioning (1.1)
+
+DEPENDENCIES:
+  - MBProgressHUD
+  - ONEUIKit
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  libwebp: b9126f8982a95370cf4eaad9bb3fefd57f052c15
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  ONEFoundation: 1d1bb15cb86b2bb2acc0001e00f2f68bad8d2326
+  ONEUIKit: ddd40ea678edc5f1ebe986cf1f3e080499665a44
+  OpenUDID: e7cb6984c7304906ad20f3a36bf087b025896b6b
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  UICKeyChainStore: 239558492fa260531a0774cfc611ea83a6eaff3a
+  UIView+Positioning: e93fe9e3186d1ed7d60e344aa12787911e902056
+
+PODFILE CHECKSUM: c43b56a6bd1dda7ad85434406be9b768717e18bb
+
+COCOAPODS: 1.2.1

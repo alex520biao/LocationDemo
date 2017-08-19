@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Pods
+
+  Created by Nemocdz on 2017/5/3.
+
+*/
+"设备无相机——设备无相机功能，无法进行扫描" = "The device has no camera function and can not be scanned";
+"设备相机错误——无法启用相机，请检查" = "Can not enable camera, please check";
+"未打开相机权限 ——请在“设置-隐私-相机”选项中，允许滴滴访问你的相机" = "In the \"Settings - Privacy - Camera\" option, allowing you to access the camera drops";
+"好" = "OK";

@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Pods
+
+  Created by 张华威 on 2017/1/16.
+
+*/
+
+"星期天"="Sun.";
+"星期一"="Mon.";
+"星期二"="Tue.";
+"星期三"="Wed.";
+"星期四"="Thu.";
+"星期五"="Fri.";
+"星期六"="Sat.";

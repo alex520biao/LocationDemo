@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  Pods
+
+  Created by 张华威 on 2017/1/16.
+
+*/
+
+//"现在"="现在";
+//
+//"今天"="今天";
+//"%@月%ld日 %@"="%ld月%ld日 %@";
+//"明天"="明天";
+//"后天"="后天";
+//"%@月%ld日"="%@月%ld日";
+//"现在"="现在";
+//"%@点"="%@点";
+//"分"="分";
+//"今天"="今天";
+//"明天"="明天";
+//"后天"="The day after tomorrow";
+
+"January"="1";
+"February"="2";
+"March"="3";
+"April"="4";
+"May"="5";
+"June"="6";
+"July"="7";
+"August"="8";
+"September"="9";
+"October"="10";
+"November"="11";
+"December"="12";

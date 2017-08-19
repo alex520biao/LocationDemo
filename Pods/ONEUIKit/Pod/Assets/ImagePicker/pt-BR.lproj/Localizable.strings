@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Pods
+
+  Created by Nemocdz on 2017/5/9.
+
+*/
+
+"拍照"="Foto";
+"从手机相册选择"="Selecionar foto da galeria de fotos";
+"取消"="Cancelar";
+"相册中获取"="Recuperado(a) do álbum de fotos";

@@ -1,0 +1,12 @@
+/* 
+  File.strings
+  Pods
+
+  Created by Nemocdz on 2017/5/8.
+
+*/
+
+"取消"="Cancel";
+"拍照"="Photo";
+"从手机相册选择"="Select from photo gallery";
+"相册中获取"="Retrieved from photo gallery";

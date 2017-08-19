@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Pods
+
+  Created by 张华威 on 2017/1/16.
+
+*/
+
+/*
+ ONEPopupView.m
+ */
+"确认"="Confirmar";
+"取消"="Cancelar";
+
+/*
+ ONEPopupDatePickerView.m
+ */
+//"现在"="Now";
+//"今天"="Today";
+//"明天"="Tomorrow";
+//"后天"="The day after tomorrow";
+//"现在"="Now";
+//
+//
+//"月"="";
+//"日"="";
+//"%@月%ld日 %@"="%@.%ld %@";
+//"%ld月%ld日"="%ld.%ld";
+//"%@点"="%@h";
+//"分"="m";
+////"后天"="The day after tomorrow";
+//
+//"January"="Jan. ";
+//"February"="Feb. ";
+//"March"="Mar. ";
+//"April"="Apr. ";
+//"May"="May ";
+//"June"="June ";
+//"July"="July ";
+//"August"="Aug. ";
+//"September"="Sep. ";
+//"October"="Oct. ";
+//"November"="Nov. ";
+//"December"="Dec. ";
+
