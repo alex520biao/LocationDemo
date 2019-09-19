@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0700"
+   LastUpgradeVersion = "0930"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '60515E44C10224268D3549CEFD90BF5F'
-               BlueprintName = 'ONEUIKit'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libONEUIKit.a'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "60515E44C10224268D3549CEFD90BF5F"
+               BlueprintName = "ONEUIKit"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "libONEUIKit.a">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

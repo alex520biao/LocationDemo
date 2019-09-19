@@ -102,13 +102,12 @@
     self.hud.detailsLabelFont = [UIFont systemFontOfSize:13];
     self.hud.detailsLabelText = [NSString stringWithFormat:@"位置信息:%@", locations];
     
-    
 //    [ONEProgressHUD showOnViewFinishTxt:self.view labelText:[NSString stringWithFormat:@"位置信息:%@", locations]];
     [ONEProgressHUD showOnView:self.view
                           mode:ONEProgressHUDModeText
                     customView:nil
                         insets:UIEdgeInsetsZero
-                     labelText:[NSString stringWithFormat:@"位置信息:%@", locations]
+                     labelText:[NSString stringWithFormat:@"位置信息:%@,timestamp: %@", locations,location.timestamp]
                      hideDelay:50];
 }
 
